@@ -1,0 +1,3 @@
+name,appointments
+Julius Hibber,{"name": "sterling archer", "time": "8:00AM", "kind": "New Patient"}, {"name": "Cyril Figis", "time": "8:30AM", "kind": "Follow Up"}
+Spencer Negri,{"name": "Lana Kane"\, "time": "9:00AM"\, "kind": "New Patient"}, {"name": "Another Doctor"\, "time": "12:30AM"\, "kind": "Check Up"}
